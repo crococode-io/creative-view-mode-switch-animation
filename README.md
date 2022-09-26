@@ -1,6 +1,6 @@
 # Creative View Mode Switch Animation
 
-A creative views switch animation with grid and list viewing modes made with CSS3, Masonry and GSAP. 
+A creative views switch animation with grid and list viewing modes made with CSS3, Masonry and GSAP.
 
 ![Creative View Mode Switch Animation](https://raw.githubusercontent.com/crococode-io/images/main/creative-view-mode-switch-animation.png)
 
